@@ -14,7 +14,7 @@ T maximum(T a, T b)
 
 int main()
 {
-	
+
 	Stack<float> a(10);
 	float p;
 	a.push(10.1f);
